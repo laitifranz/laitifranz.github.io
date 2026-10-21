@@ -2,6 +2,10 @@
 
 This repository is the GitHub Pages **user site** for [laitifranz](https://github.com/laitifranz). It redirects all visitors from `laitifranz.github.io` to the new site at **[laitifranz.pages.dev](https://laitifranz.pages.dev)**, preserving the full path, query string, and hash fragment.
 
+## Why the site moved
+
+My site's source code lives in a private repository. GitHub Pages only deploys from private repos on paid plans (Pro, Team, or Enterprise). When my GitHub Pro subscription lapsed, the deployment stopped and the site went offline—hosting depended on keeping a paid plan active. Cloudflare Pages builds from private repos on its free tier, so the site no longer depends on a GitHub subscription. This repo stays public only to keep old `laitifranz.github.io` links working.
+
 ## Where the real site lives
 
 The actual website is in a private repository ([laitifranz/personal-website](https://github.com/laitifranz/personal-website)) and deployed via Cloudflare Pages at [laitifranz.pages.dev](https://laitifranz.pages.dev).
