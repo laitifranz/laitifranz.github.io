@@ -4,7 +4,7 @@ This repository is the GitHub Pages **user site** for [laitifranz](https://githu
 
 ## Why the site moved
 
-My site's source code lives in a private repository. GitHub Pages only deploys from private repos on paid plans (Pro, Team, or Enterprise). When my GitHub Pro subscription lapsed, the deployment stopped and the site went offline—hosting depended on keeping a paid plan active. Cloudflare Pages builds from private repos on its free tier, so the site no longer depends on a GitHub subscription. This repo stays public only to keep old `laitifranz.github.io` links working.
+My site's source code lives in a private repository. GitHub Pages only deploys from private repos on paid plans (Pro, Team, or Enterprise). When my GitHub Pro subscription lapsed, the deployment stopped and the site went offline—hosting depended on keeping a paid plan active. GitHub never notified me that my website was down. Cloudflare Pages builds from private repos on its free tier, so the site no longer depends on a GitHub subscription. This repo stays public only to keep old `laitifranz.github.io` links working.
 
 ## Where the real site lives
 
